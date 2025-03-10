@@ -73,12 +73,3 @@ While not required, implementing any of the following will be viewed favorably:
 - Caching mechanisms
 
 ## Submission and Review Process
-
-1. When ready, we will schedule a meeting with you to review your implementation.
-
-2. During this meeting, you will have the opportunity to walk us through your code live. Be prepared to:
-   - Explain your design decisions
-   - Demonstrate the functionality of your API
-   - Discuss any challenges you faced and how you overcame them
-   - Answer questions about your implementation
-   - 
